@@ -1,1 +1,1 @@
-# trash-me
+# :wastebasket: trash-me
